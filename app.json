@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "codelab-2",
+    "slug": "codelab-2",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "plugins": [
+      "expo-router"
+    ],
+    "scheme": "codelab2"
+  }
+}
